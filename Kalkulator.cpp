@@ -12,7 +12,7 @@ int main() //Zabawe czas zaczac :D
     int wykaznik;
 
     //credits
-    cout << "Kalkulator by Maluszek S.A." << endl;
+    cout << "Kalkulator by Adam Celej" << endl;
 
     //menu wyboru
     cout << "Dzialania " << endl;
